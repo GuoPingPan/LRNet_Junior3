@@ -1,5 +1,22 @@
 # LRNet
 
+### 效果
+
+- origin
+ <img src="demo/origin.gif" width="600" align="middle" />
+
+
+- before modified
+
+ <img src="demo/before-modified.gif" width="600" align="middle" />
+
+- after modified
+
+ <img src="demo/after-modified.gif" width="600" align="middle" />
+
+
+
+
 ### 文件结构
 
 -   LRNet
